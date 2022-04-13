@@ -2,8 +2,8 @@
 # Trabalho Desenvolvido no final da materia de Estrutura de dados.
 
 # Dev's:
-Giliarde Reis Pereira
+Giliarde Reis Pereira<br>
 Git: https://github.com/GiliardeRP
 
-Vanú bia Santos Lima
+Vanú bia Santos Lima<br>
 Git: https://github.com/Vanubia-01
