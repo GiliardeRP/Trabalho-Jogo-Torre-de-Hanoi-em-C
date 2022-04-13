@@ -5,5 +5,5 @@
 Giliarde Reis Pereira<br>
 Git: https://github.com/GiliardeRP
 
-Vanú bia Santos Lima<br>
+Vanúbia Santos Lima<br>
 Git: https://github.com/Vanubia-01
